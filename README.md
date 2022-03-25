@@ -5,7 +5,7 @@
 <br/>
 
 Home Page
-<img src="./homekfc.png">
+<img src="./home.jpg">
 
 <br/>
 <br/>
