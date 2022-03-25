@@ -1,8 +1,7 @@
 # steve_madden
 
-# Kfc-Project
 ## Hello Everyone 👋,
- ### In this Project, We made clone of KFC India where you can buy Fast food items. Its collaborative project consist of 🖐 Members, completed this in 6️⃣ days.
+ ### In this Project, We made clone of Steve Madden where you can shoes,bags. Its collaborative project consist of 🖐 Members, completed this in 5 days.
 <br/>
 
 Home Page
