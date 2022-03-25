@@ -1,5 +1,21 @@
 # steve_madden
 
+# Kfc-Project
+## Hello Everyone 👋,
+ ### In this Project, We made clone of KFC India where you can buy Fast food items. Its collaborative project consist of 🖐 Members, completed this in 6️⃣ days.
+<br/>
+
+Home Page
+<img src="./homekfc.png">
+
+<br/>
+<br/>
+<br/>
+Menu page
+<img src="./kfc.png">
+
+
+
 <p>Hi there, we have experienced our third team project in Masai School on the SeteveMadden.in website clone with backend.<br>
 GitHub frontend: https://github.com/vattsalbhatt/steve_madden_fullstack<br>
 GitHub backend: https://github.com/vattsalbhatt/steve_madden<br>
