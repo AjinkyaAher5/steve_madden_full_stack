@@ -11,7 +11,7 @@ Home Page
 <br/>
 <br/>
 Menu page
-<img src="./kfc.png">
+<img src="./cart_img.jpg">
 
 
 
